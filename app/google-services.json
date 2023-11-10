@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771940221160",
+    "project_id": "fir-c5280",
+    "storage_bucket": "fir-c5280.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771940221160:android:2e02cdc46bd372619dc95d",
+        "android_client_info": {
+          "package_name": "com.app.firebase_auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaEthW66F5NsnkBSntsogBBvmdk7zzkNo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
